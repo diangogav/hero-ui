@@ -12,7 +12,6 @@ body {
 }
 
 .wrapper {
-  max-inline-size: 360px;
   margin: auto;
 }
 
@@ -60,7 +59,6 @@ img {
 }
 
 #loki-img {
-  block-size: 274px;
   background-color: var(--black);
 }
 
@@ -84,10 +82,6 @@ button {
     max-inline-size: 768px;
   }
 
-  #loki-img {
-    block-size: 584px;
-  }
-
   .card {
     padding-block: 40px;
     padding-inline: 64px;
@@ -95,10 +89,6 @@ button {
 
   #logo {
     block-size: 80px;
-  }
-
-  #logo-img {
-    block-size: 584px;
   }
 
   .hero h1 {
@@ -119,7 +109,6 @@ button {
   #loki-img {
     position: relative;
     inline-size: 100%;
-    block-size: 768px;
   }
 
   .hero-content {
